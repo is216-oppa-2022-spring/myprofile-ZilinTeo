@@ -13,6 +13,6 @@ Each week, you need to **update README** and describe the new changes you've imp
 * Added a new webpage for my resume.
 * Applied CSS I learned in class to my web pages.
 
-## (Week 3) something goes here
-* something
-* something
+## (Week 3) Implemented Bootstrap
+* Added bootstrap
+* Reformatted existing webpages with bootstrap navbar
