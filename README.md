@@ -16,3 +16,12 @@ Each week, you need to **update README** and describe the new changes you've imp
 ## (Week 3) Implemented Bootstrap
 * Added bootstrap
 * Reformatted existing webpages with bootstrap navbar
+
+## (Week 4)
+* Added a new webpage
+* Implemented bootstrap to create form
+
+## (Week 5) Implemented JavaScript
+* Made the form interactive
+
+## (Week 6)
