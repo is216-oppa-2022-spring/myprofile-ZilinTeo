@@ -22,6 +22,6 @@ Each week, you need to **update README** and describe the new changes you've imp
 * Implemented bootstrap to create form
 
 ## (Week 5) Implemented JavaScript
-* Made the form interactive
+* Made the webpages interactive with Javascript
 
 ## (Week 6)
