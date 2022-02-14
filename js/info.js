@@ -8,7 +8,7 @@ function highlight(){
 function unhighlight(){
     var elements = document.getElementsByTagName('td');
     for(element of elements){
-        element.classList.add('bg-info');
-        element.classList.add('text-black');
+        element.classList.remove('bg-dark');
+        element.classList.remove('text-white');
     }
 }
