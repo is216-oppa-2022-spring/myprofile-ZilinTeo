@@ -25,3 +25,5 @@ Each week, you need to **update README** and describe the new changes you've imp
 * Made the webpages interactive with Javascript
 
 ## (Week 6)
+* Added API
+
