@@ -29,19 +29,18 @@
       </nav>
 
 
-      <span id= "form-box" style="display: block;">
+      <span id= "form-box" class="p-5" style="display: block;">
 
-      <form class="p-5">
         <div class="row">
 
           <div class="form-group col-md-6">
-            <label for="exampleInputPassword1">Name</label>
+            <label for="name">Name</label>
             <input type="text" class="form-control" id="name" placeholder="Enter name">
           </div>
 
           <div class="form-group col-md-6">
-            <label for="exampleInputEmail1">Email address</label>
-            <input type="email" class="form-control" id="email" aria-describedby="emailHelp" placeholder="Enter email">
+            <label for="message">Message</label>
+            <input type="text" class="form-control" id="message" placeholder="Enter message">
           </div>
 
         </div>
@@ -49,8 +48,7 @@
        <br>
 
 
-        <button type="submit" class="btn btn-primary" onclick="submit()">Submit</button>
-      </form>
+        <button class="btn btn-primary" onclick="submit()">Submit</button>
 
     </span>
 <script src="js/form.js">
