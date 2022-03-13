@@ -25,5 +25,14 @@ Each week, you need to **update README** and describe the new changes you've imp
 * Made the webpages interactive with Javascript
 
 ## (Week 6)
+* Added more interactions to webpages
+
+## (Week 7 & 8)
+* Studying for midterms
+
+## (Week 9)
+* Implemented Vue
 * Added API
+
+
 
